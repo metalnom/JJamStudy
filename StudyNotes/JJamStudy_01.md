@@ -16,7 +16,7 @@ marp: true
 ---
 ## Instructor
 **Jung Changdo**
-* Daegu Regional Council for Human Resourse Development
+* Daegu Regional Council for Human Resource Development
   Senior Researcher
 
 
